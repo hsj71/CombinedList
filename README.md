@@ -2,6 +2,7 @@
 ---
 ## Heavy
 |  |  |
+| -------- | -------- |
 | Financial-Dashboard | https://nextjs-dashboard-3101.vercel.app/ |
 |  |  |
 | FruitsMarket_ReactVite | https://fruit-store-react1.onrender.com/ |
@@ -13,6 +14,7 @@
 
 ## NotHeavy
 |  |  |
+| -------- | -------- |
 | APortfolio | https://hsj71.github.io/APortfolio/ |
 | SweetCakes_Web | https://hsj71.github.io/SweetCakes_Web/ |
 | BuyCarNow_Web | https://hsj71.github.io/BuyCarNow_Web/ |
@@ -27,6 +29,7 @@
 ## Light
 
 |  |  |
+| -------- | -------- |
 | CppOpenGL | https://github.com/hsj71/CppOpenGL |
 | TechnoNewsWeb | https://github.com/hsj71/TechnoNewsWeb |
 | pyClock-exe | https://github.com/hsj71/pyClock-exe |
